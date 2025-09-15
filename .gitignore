@@ -1,0 +1,7 @@
+.venv/
+venv/
+__pycache__/
+datasets/
+processed_data/
+models/
+.vscode/
